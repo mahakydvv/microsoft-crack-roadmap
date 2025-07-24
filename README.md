@@ -4,7 +4,7 @@ A 90-day roadmap with daily plans, resources, and real interview strategies base
 
 This repository is inspired by a real story of an IITian who landed a role at Microsoft with just **3 months of dedicated prep** — no coaching, no expensive courses. Just strategy, consistency, and smart learning.
 
-🔗 [Read the full blog here](https://codingwithiitians.com/how-an-iitian-cracked-microsoft-in-3-months)  
+🔗 [Read the full blog here][https://medium.com/@saral.mahak22/how-an-iitian-cracked-microsoft-in-3-months-a-no-nonsense-guide-ace9426da884](url)
 
 ---
 
